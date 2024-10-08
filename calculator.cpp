@@ -19,7 +19,7 @@ int main() {
         cout << "Enter two numbers that you want to perform operations on: ";
         cin >> num1 >> num2;
         cout << "You entered: " << num1 << " and " << num2 << endl;
-        cout << "Choose an operation:" << endl;
+        cout << "Choose an operation(1-5):" << endl;
         cout << "1. Addition" << endl;
         cout << "2. Subtraction" << endl;
         cout << "3. Multiplication" << endl;
